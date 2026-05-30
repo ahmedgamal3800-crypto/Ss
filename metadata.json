@@ -1,0 +1,6 @@
+{
+  "name": "صانع سكربتات اليوتيوب والبودكاست",
+  "description": "منصة ذكية متكاملة لكتابة وتلوين وتحسين سكربتات اليوتيوب والبودكاست عبر 10 مراحل متتالية مع دعم التصدير والتعديل المباشر وحفظ المشاريع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
